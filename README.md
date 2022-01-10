@@ -10,4 +10,4 @@ Bu sayfa içerisinde
 * Duyurular
 Paylaşılmaktadır.
 
-Sayfa yönetimi [ÇAĞATAY CANKURT] (https://20215070100.github.io/) tarafından yapılmaktadır. 
+Sayfa yönetimi [ÇAĞATAY CANKURT](https://20215070100.github.io/) tarafından yapılmaktadır. 
